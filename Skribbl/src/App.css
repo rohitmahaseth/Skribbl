@@ -1,0 +1,200 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.deeev{ 
+  display: flex;
+  margin-top: 3rem;
+}
+.deeev1{
+  display: flex;
+  margin-top: 1rem;
+}
+.heading1{
+  margin-top: 0rem;
+  margin-left: 4rem;
+  font-size: 5.8rem;
+  font-weight: 2000;
+  font-family:cursive;
+  -webkit-text-stroke-width: 4px;
+  -webkit-text-stroke-color: black;
+}
+.heading{
+  margin-left: 25rem;
+  font-size: 8rem;
+  font-weight: 2000;
+  font-family:cursive;
+  -webkit-text-stroke-width: 5px;
+  -webkit-text-stroke-color: black;
+}
+.inputbaby{
+  margin-top: 3rem;
+  text-align: center;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  height: 4rem;
+  width: 18rem;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+  background-color:rgb(13, 207, 241);
+  border-width: 0.5rem;
+  border-color:rgb(42, 7, 243);
+}
+
+.playbaby{
+  margin-top: 2rem;
+  text-align: center;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  height: 4rem;
+  width: 18rem;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+  background-color:rgb(202, 223, 86);
+  border-width: 0.5rem;
+  border-color:rgb(243, 62, 7);
+}
+::placeholder {
+  font-size: 1.5rem;
+  color: black;
+  font-family: fantasy;
+}
+input[type=text]{
+  font-size: 1.5rem;
+  font-family: fantasy;
+}
+.btnbaby{
+  margin-top: 2rem;
+  text-align: center;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  height: 4rem;
+  width: 18rem;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+  background-color:rgb(202, 223, 86);
+  border-width: 0.5rem;
+  border-color:rgb(243, 62, 7);
+}
+.xbaby{
+  display: block;
+  margin-left: auto;
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+  margin-top: 2rem;
+}
+.xbaby1{
+  display: block;
+  margin-left: auto;
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+  margin-top: 2rem;
+}
+.btnbaby1{
+  margin-top: 2rem;
+  text-align: center;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  height: 4rem;
+  width: 18rem;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+  background-color:rgb(202, 223, 86);
+  border-width: 0.5rem;
+  border-color:rgb(243, 62, 7);
+}
+.imagebaby{
+  height: 7rem;
+  width: 15rem;
+  margin-left: 41rem;
+}
+.image2baby{
+  height: 3rem;
+  margin-bottom: 8px;
+}
+.modalbaby{
+  display: inline;
+  font-weight: 800;
+  margin-top: 8rem;
+  color: rgb(3, 9, 83);
+  margin-bottom: 5rem;
+  font-size: 2.5rem;
+}
+.modalbaby1{
+  display: inline;
+  font-weight: 800;
+  margin-top: 8rem;
+  color: rgb(3, 9, 83);
+  margin-bottom: 5rem;
+  font-size: 2.5rem;
+}
+.overlay{
+  position:absolute;
+
+}
+.inpbaby{
+  position: absolute;
+  margin-left: 76.5rem;
+  width: 17.8rem;
+}
+.mg{
+  position: absolute;
+  width: 17.7rem;
+  height: 14.3rem;
+  margin-top: 0.6rem;
+  margin-left: 0.6rem;
+}
+.playb{
+  border-top: 1rem;
+  border-bottom: 1rem;
+  border-right: 1rem;
+  border-left: 1rem;
+  border-width: 1rem;
+  border-color: black;
+} 
